@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Whimel",
+			"Path": "/Users/brinleyzhao/Downloads/Unreal Games/Whimel-Unreal/Whimel/Source/Whimel.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WhimelEditor",
+			"Path": "/Users/brinleyzhao/Downloads/Unreal Games/Whimel-Unreal/Whimel/Source/WhimelEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
